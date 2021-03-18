@@ -6,4 +6,5 @@ add some comment
 
 commit: index 상태를 기록하기(issue2)
 
+pull: 원격 정장소의 내용을 가져오기(issue3)
 
