@@ -3,4 +3,7 @@ add: 변경 사항을 만들어서 인덱스에 등록해보기
 
 add some comment
 
-`
+
+commit: index 상태를 기록하기(issue2)
+
+
